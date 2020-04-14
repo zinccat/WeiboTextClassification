@@ -20,5 +20,5 @@ TextCNN.ipynb
 
 kNN分类准确率 75%
 
-TextCNN分类准确率 85%
+TextCNN分类准确率 85.8%
 
